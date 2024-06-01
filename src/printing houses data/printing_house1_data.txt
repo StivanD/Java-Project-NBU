@@ -1,0 +1,23 @@
+Printing House: Printing House 1
+- Revenue: 29000.0
+- Expenses: 8545.0
+- Employees:
+  - John Doe:
+     UUID: 2fe15cdb-3fab-4566-809e-060d69b82a8f
+     Salary: 3000.0
+
+  - Jane Smith:
+     UUID: 4f1c2d5b-887f-47a5-8d58-2bdff3c4fb76
+     Salary: 5500.0
+
+- Machines:
+  - Machine 1: 
+     UUID: 058ae090-54c4-4cc0-a828-e79f436b2024:
+     Edition: Book1
+     Printed pages: 100
+
+  - Machine 2: 
+     UUID: 7fa810f3-1875-4d05-91c9-9ba880d61610:
+     Edition: Newspaper1
+     Printed pages: 200
+
